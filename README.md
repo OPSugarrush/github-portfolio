@@ -1,8 +1,8 @@
 # Developer Portfolio
 
-A responsive, single-page developer portfolio customized by **Jacob Albert Deheer-Graham**. 
+CLICK HERE: https://opsugarrush.github.io/github-portfolio/
 
-https://opsugarrush.github.io/github-portfolio/
+A responsive, single-page developer portfolio customized by **Jacob Albert Deheer-Graham**. 
 
 This project uses standard HTML, CSS, and vanilla JavaScript to render a minimal, high-performance personal portfolio website, featuring a projects gallery, an about section, and contact information.
 
